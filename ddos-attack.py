@@ -24,8 +24,8 @@ print ("Author   : VIDEOS OF THE RK")
 print ("You Tube : VIDEOS OF THE RK")
 print ("github   : https://github.com/RISH210505")
 print
-ip = input("IP Target : ")
-port = input("Port       : ")
+ip = int(input("IP Target : "))
+port = int(input("Port       : "))
 
 os.system("clear")
 os.system("figlet Attack Starting")
