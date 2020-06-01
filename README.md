@@ -7,8 +7,7 @@ from banks to news websites, and present a major challenge to making sure people
 
 ### Dwonload&Install
 
-### git clone 
-
+### git clone https://github.com/RISHI210505/DDos-Attack
 ### cd DDos-Attack
 
 ### chmod +x ddos-attack.py
