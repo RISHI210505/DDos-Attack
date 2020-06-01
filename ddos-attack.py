@@ -24,7 +24,7 @@ print ("Author   : VIDEOS OF THE RK")
 print ("You Tube : VIDEOS OF THE RK")
 print ("github   : https://github.com/RISH210505")
 print
-ip = raw_input("IP Target : ")
+ip = input("IP Target : ")
 port = input("Port       : ")
 
 os.system("clear")
