@@ -7,7 +7,7 @@ from banks to news websites, and present a major challenge to making sure people
 
 ### Dwonload&Install
 
-### git clone https://github.com/Techtushar07/DDos-Attack.git
+### git clone 
 
 ### cd DDos-Attack
 
@@ -15,19 +15,6 @@ from banks to news websites, and present a major challenge to making sure people
 
 ### python ddos-attack.py
 
-### Image
-
-![images (1)](https://user-images.githubusercontent.com/63150092/80480768-dcadb180-896e-11ea-931a-05565452203e.jpeg)
-
-### Follow Instagram
-
-https://www.instagram.com/tushardavera/
-
-### YouTube channel
-
-https://www.youtube.com/c/TechTushar
-
-### Video Tutorial
-
-https://www.youtube.com/c/TechTushar
+SUSCRIBE TO MY YOUTUBE CHHANNEL VIDEOS OF THE RK
+AND WATCH VIDEO TOUTRAIL THEIR MY
 
